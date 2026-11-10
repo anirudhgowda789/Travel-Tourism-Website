@@ -11,7 +11,7 @@
 .nav-bar-container{
    border-style:solid;
    border-color:white;
-   border-width:3px;
+   border-width:1px;
    border-radius:20px;
    padding:20px   
 }
@@ -19,4 +19,90 @@
  background-color: #ffffff;
  height:100%;
  width:100%;
+}
+.nav-bar-headings{
+    color:#ffffff;
+    font-family:"Roboto";
+    font-style:normal;
+    font-weight:bold;
+
+}
+.hero-section-login{
+    border-radius: 20px;
+    padding:6px;
+    width:100%;
+    color:black;
+    font-family:"Roboto";   
+}
+.hero-section-heading{
+    color:#ffffff;
+    font-family:"Roboto";
+    text-align:center;
+    font-weight:bold;
+    font-size:60px;
+    margin:100px 0px 0px 0px;
+
+}
+.hero-section-paragraph{
+    color:#ffffff;
+    font-family:"Roboto";
+    text-align:center;
+    
+}
+.hero-section-main-button{
+    border-radius:4px;
+    padding:10px;
+    color:black;
+    font-family:"Roboto";
+    margin:20px 0px 0px 0px; 
+    font-weight:bold; 
+}
+.image{
+    height:150px;
+    border-radius:8px;
+}
+.card-section{
+    background-color: #ffffff;
+    border-style:solid;
+    border-width:3px;
+    border-color:#ffffff;
+    height:260px;
+    width:150px;
+    border-radius:8px;
+
+
+}
+.destination-page{
+    background-color:#fff9f0;
+    height:100vh;
+}
+.container{
+    margin:20px;
+
+
+}
+.destination-section-heading{
+    color:#000000;
+    font-family:"Roboto";
+    text-align:center;
+    font-weight:bold;
+    font-size:30px;
+    margin:100px 0px 0px 0px;
+
+}
+.destination-section-paragraph{
+    color:grey;
+    font-family:"Roboto";
+    text-align:center;
+}
+.loc{
+    padding:16px;
+}
+.card-section-paragraph{
+     color:grey;
+    font-family:"Roboto";
+    text-align:center;
+    margin:8px;
+    padding:3px;
+
 }
