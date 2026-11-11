@@ -109,14 +109,19 @@
 
 }
 .bg-container-italy{
-      height:100vh;
+      height:100%;
+      width:100%;
       background-color:#f2f1ee;
       margin-top:20px;
 }
 .bg-container-italy-heading{
     font-family:"Playfair Display";
     text-align:center;
-    font-size:60px;
+    font-size:100px;
     padding:40px;
 
+
+}
+.details-section-heading{
+    
 }
