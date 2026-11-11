@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+    <link rel="stylesheet" href="style.css">
+   
+    
+</head>
+<body>
+    <div class="bg-container" id ="section1">
+       <div class="hero-section ">
+            <header class="d-flex flex-row justify-content-between nav-bar-container">
+               <a href="#travely" class="nav-bar-headings ">Travely</a>
+               <a href="#home" class="nav-bar-headings">Home</a>
+               <a href="#destinations" class="nav-bar-headings">Destination</a>
+               <a href="#contact" class="nav-bar-headings">Contact</a>
+               <div>
+                   <button class="hero-section-login">Login Now</button>
+                </div>
+            </header>
+            <div>
+                <h1 class="hero-section-heading">Start Your Exciting Journey to Explore World</h1>
+                <p class="hero-section-paragraph">Find the best destination around the world and plan your perfect trip with ease and begin journey filled with experience</p>
+                <div style="text-align:center">
+                   <button class="hero-section-main-button" onclick="display('section2')" >Get Started</button>
+                </div>
+            </div>
+           
+
+            
+        </div>       
+    </div>
+    <div class="destination-page" id="section2">
+        <h1  class="destination-section-heading">Travels to the World's Most Popular Places </h1>
+        <p  class="destination-section-paragraph">Your Next Adventures Starts Here</p>
+        <div class="container">
+                <div class="row">
+                   <div class="col-12 col-md-4 col-lg-3 col-sm-6">
+                      <div class="card-section d-flex flex-column mb-5">
+                             <img src="https://media.audleytravel.com/-/media/images/home/blog/2022/november/top-15-places-to-visit-in-italy/amalfi-coast-shutterstock_1436187389-1000x3000-1080x1512.webp?q=79&w=800&h=571" class="image">
+                             <p class="card-section-paragraph">♀ Italy</p>
+                             <p class="card-section-paragraph">From &#8364 200</p>
+                             <p class="card-section-paragraph"> ★ ★ ★ ★  4.5</p>
+                            <button class="btn btn-primary "  onclick="display('section3')">View More Details</button>
+                      </div>       
+                    </div>
+                    <div  class="col-12 col-md-4 col-lg-3 col-sm-6 ">
+                         <div class="card-section d-flex flex-column mb-5">
+                             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXExoyosVOOeD60zD3A27SMw6r0DHAPUJ-UW8gaXh5vnPyFQ2JJ9EHPis&s=10" class="image">
+                             <p class="card-section-paragraph">♀ Abu Dhabi</p>
+                             <p class="card-section-paragraph">From &#8364 320</p>
+                             <p class="card-section-paragraph"> ★ ★ ★  3.5</p>
+                            <button class="btn btn-primary">View More Details</button>
+                        </div>  
+                    
+                   </div>
+                    <div  class="col-12 col-md-4 col-lg-3 col-sm-6">
+                         <div class="card-section d-flex flex-column mb-5">
+                             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJ6Mk9mkH3L6NGr3CFM4lT2rp2M1UboXwzvLoPhr8ghoynvf6qiC4wCE8&s=10" class="image">
+                             <p class="card-section-paragraph">♀ China</p>
+                             <p class="card-section-paragraph">From &#8364 120</p>
+                             <p class="card-section-paragraph"> ★ ★ ★ ★ ★ 5.0</p>
+                            <button class="btn btn-primary " >View More Details</button>
+                        </div>  
+                    
+                   </div>
+                    <div  class="col-12 col-md-4 col-lg-3 col-sm-6">
+                         <div class="card-section d-flex flex-column mb-5">
+                             <img src="https://media.timeout.com/images/106299083/750/562/image.jpg" class="image">
+                             <p class="card-section-paragraph">♀ Australia</p>
+                             <p class="card-section-paragraph">From &#8364 300</p>
+                             <p class="card-section-paragraph"> ★ ★ ★ ★  4.5</p>
+                            <button class="btn btn-primary ">View More Details</button>
+                        </div>  
+                    
+                   </div>
+                    <div  class="col-12 col-md-4 col-lg-3 col-sm-6">
+                         <div class="card-section d-flex flex-column mb-5">
+                             <img src="https://cdn.getyourguide.com/image/format=avif%2Cfit=cover%2Cgravity=auto%2Cquality=60/dam/colton-duke-pit2V7NJ_e4-unsplash-Header-Mobile.jpg" class="image">
+                             <p class="card-section-paragraph">♀ Thailand</p>
+                             <p class="card-section-paragraph">From &#8364 300</p>
+                             <p class="card-section-paragraph"> ★ ★ ★ ★  4.5</p>
+                            <button class="btn btn-primary ">View More Details</button>
+                        </div>  
+                    
+                   </div>
+                   <div  class="col-12 col-md-4 col-lg-3 col-sm-6">
+                         <div class="card-section d-flex flex-column mb-5">
+                             <img src="https://media.cntraveller.com/photos/611beb6d628f4910ed1020a7/master/pass/sri-lanka-sh-conde-nast-traveller-27jul20-1129567869.jpg" class="image">
+                             <p class="card-section-paragraph">♀ Sri Lankha</p>
+                             <p class="card-section-paragraph">From &#8364 300</p>
+                             <p class="card-section-paragraph"> ★ ★ ★ ★  4.5</p>
+                            <button class="btn btn-primary ">View More Details</button>
+                        </div>  
+                    
+                   </div>
+                     <div  class="col-12 col-md-4 col-lg-3 col-sm-6">
+                         <div class="card-section d-flex flex-column mb-5">
+                             <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/b1/singapore.jpg?w=1200&h=700&s=1" class="image">
+                             <p class="card-section-paragraph">♀ Singapore</p>
+                             <p class="card-section-paragraph">From &#8364 300</p>
+                             <p class="card-section-paragraph"> ★ ★ ★ ★  4.5</p>
+                            <button class="btn btn-primary ">View More Details</button>
+                        </div>  
+                    
+                   </div>
+                    <div  class="col-12 col-md-4 col-lg-3 col-sm-6">
+                         <div class="card-section d-flex flex-column mb-5">
+                             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT57Z04NuGbok9rM-LF-AjxkcK88dmiJ-5hSSSD6E49NyrrQmzyGzJ0AGY&s=10" class="image">
+                             <p class="card-section-paragraph">♀ Spain</p>
+                             <p class="card-section-paragraph">From &#8364 300</p>
+                             <p class="card-section-paragraph"> ★ ★ ★ ★  4.5</p>
+                            <button class="btn btn-primary "  >View More Details</button>
+                        </div>  
+                    
+                   </div>
+          
+                    
+                   
+
+
+
+
+                </div>
+
+        </div>
+        <div style="text-align:center;">
+              <button class="destination-page-container">See More</button> 
+              <button class="destination-page-container" onclick="display('homesection')">Back</button> 
+        </div>
+          
+
+    </div>
+    <div id="section3" class="bg-container-italy" >
+         <h1 class="bg-container-italy-heading">The Italian Republic</h1>
+         <div class="details-container">
+            <div class="container">
+                  <div class="row">
+                     <div class="col-6 col-md-6 col-lg-6 col-sm-6">
+                          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc9LP7UWkVGVegIh1QAmnpghDS-yFcXLHIjQH2MB37AbHlXXRl7Cz1KiZH&s=10" style="height:100%;width:100%; border-radius:20px;">
+                          
+                     </div>
+                     <div class="col-6 col-md-6 col-lg-6 col-sm-6">
+                            <h1 class="detail-section-heading">The Beauty of Italian Nature</h1>
+                            <p class="detail-section-paragraph">Italy boasts some of Europe’s most diverse natural landscapes, ranging from the dramatic jagged limestone peaks of the Dolomites and the Alpine meadows of Gran Paradiso National Park to the terraced coastal cliffs of Cinque Terre and the sparkling waters of Lake Garda. Further south, the rolling cypress-lined hills of Tuscany blend with the geothermal thermal springs of Saturnia and the fiery, raw volcanic presence of Mount Etna in Sicily, creating a rich tapestry of mountains, lakes, and coastlines.</p>
+
+                     </div>
+                      <button class="destination-page-container" onclick="display('homesection')">Back</button> 
+
+                  </div>
+             </div>
+         </div>
+    </div>
+    <script type="text/javascript" src="https://new-assets.ccbp.in/frontend/content/static-ccbp-ui-kit/static-ccbp-ui-kit.js"></script>
+    
+</body>
+</html>
