@@ -123,5 +123,12 @@
     text-align:center;
     padding:2px;
     text-decoration:underline;
+
+}
+.detailed-section-paragraph{
+    font-family:"Bree Serif";
+    text-align:left;
+    padding:2px;
+    text-decoration:none;
     
 }
