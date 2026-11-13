@@ -132,3 +132,15 @@
     padding:2px;
     text-decoration:none;
 }
+.icon-sidebar{
+    background-color:rgb(216, 243, 216);
+    margin:20px;
+    padding:20px;
+    border-radius:2px;
+}
+.icon-sidebar p{
+    color: #0e4a2b;
+}
+.icon-sidebar h5{
+    color: #0e4a2b;
+}
