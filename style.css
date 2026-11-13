@@ -114,37 +114,7 @@
       background-color:#f2f1ee;
       margin-top:20px;
 }
-.bg-container-italy-heading{
-    font-family:"Playfair Display";
-    text-align:center;
-    font-size:100px;
-    padding:40px;
-}
-.detail-section-heading{
-    font-family:"Roboto";
-    padding:30px;
-    font-size:60px;
-    text-align:center;
-
-}
-.detail-section-paragraph{
-    font-family:"Roboto";
-    padding:30px;
-    font-size:20px;
-    text-align:center;
-}
-.destination-pages-button{
-    text-align:center;
-    padding: 30px;
-    height:100%;
-    width:100%;
-    
-    color:#ffffff;
-
-}
-.image1{
-    height:250px;
-    border-radius:8px;
-    width:250px;
-    
+.bg-of-page{
+    background-image:url("https://media.timeout.com/images/106366062/750/562/image.jpg");
+    height:25%;
 }
