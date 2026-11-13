@@ -116,5 +116,7 @@
 }
 .bg-of-page{
     background-image:url("https://media.timeout.com/images/106366062/750/562/image.jpg");
-    height:25%;
+    height:100px;
+    background-size:cover;
+    
 }
