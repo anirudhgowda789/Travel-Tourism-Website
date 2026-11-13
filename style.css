@@ -144,3 +144,11 @@
 .icon-sidebar h5{
     color: #0e4a2b;
 }
+.detailed-section-abouts{
+    font-family:"Roboto";
+    text-align:center;
+    padding:2px;
+    text-decoration:underline;
+    color:rgb(11, 13, 11);
+
+}
