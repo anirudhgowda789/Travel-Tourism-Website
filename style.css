@@ -79,12 +79,14 @@
     margin:20px;
 }
 .destination-section-heading{
-    color:#000000;
-    font-family:"Roboto";
-    text-align:center;
-    font-weight:bold;
-    font-size:30px;
-    margin:100px 0px 0px 0px;
+     color: #000000;
+    font-family: "Roboto";
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 0;
+    padding-top: 20px;
+
 }
 .destination-section-paragraph{
     color:grey;
