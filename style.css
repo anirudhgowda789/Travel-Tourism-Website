@@ -122,6 +122,12 @@
     padding:2px;
      color:darkgreen;
 }
+.carousel-border{
+    border-style:solid;
+    border-color:darkred;
+    border-width:2px;
+    
+}
 .icon-sidebar{
     background-color:rgb(216, 243, 216);
     margin:20px;
