@@ -70,11 +70,11 @@
     margin-bottom:20px;
 }
 .destinations-section{
-    background-color:#ffffff;
+    background-color:#FFF9E9;
 }
 .section-title{
-     color: #172B3A;
-    font-family: "Roboto";
+     color: #0D6E69;
+    font-family: "Playfair Display";
     text-align: center;
     font-weight: bold;
     font-size: 30px;
@@ -83,7 +83,7 @@
 }
 .section-subtitle{
     color:grey;
-    font-family:"Roboto";
+    font-family:"Playfair Display";
     text-align:center;
 }
 .destination-card-info{
