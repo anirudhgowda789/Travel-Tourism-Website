@@ -107,6 +107,7 @@
 .destination-banner-image{
     width:100%;
     height:300px;
+    margin:auto;
 }
 .destination-about-title{
     font-family:"Roboto";
