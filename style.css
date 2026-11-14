@@ -126,7 +126,8 @@
     border-style:solid;
     border-color:darkred;
     border-width:2px;
-    
+    margin:12px;
+
 }
 .icon-sidebar{
     background-color:rgb(216, 243, 216);
