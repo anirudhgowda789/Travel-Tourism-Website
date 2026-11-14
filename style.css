@@ -137,8 +137,6 @@
 .destination-highlights-title{
     font-family:"Roboto";
     text-align:center;
+    color:#0D6E69;
     padding:2px;
-    text-decoration:underline;
-    color:rgb(11, 13, 11);
-
 }
