@@ -152,3 +152,12 @@
 .solid{
     color:#E5B80B;
 }
+.destination-highlights-section{
+    height:100%;
+    width:100%;
+}
+.destination-highlights-section-heading{
+    font-family:"Roboto";
+    text-align:center;
+    padding:3px;
+}
