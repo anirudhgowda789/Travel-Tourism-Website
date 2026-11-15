@@ -113,15 +113,14 @@
     font-family:"Roboto";
     text-align:center;
     padding:2px;
-    text-decoration:underline;
-    color:darkgreen;
+    color:#344638;
 
 }
 .destination-about-description{
     font-family:"Bree Serif";
     text-align:left;
     padding:2px;
-     color:darkgreen;
+     color:#765C38;
 }
 .carousel-border{
     border-style:solid;
@@ -135,7 +134,7 @@
     background-color:rgb(216, 243, 216);
     margin:20px;
     padding:20px;
-    border-radius:2px;
+    border-radius:15px;
 }
 .icon-sidebar p{
     color: #0e4a2b;
@@ -146,6 +145,6 @@
 .destination-highlights-title{
     font-family:"Roboto";
     text-align:center;
-    color:#0D6E69;
+    color:#344638;
     padding:2px;
 }
