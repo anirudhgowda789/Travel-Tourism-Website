@@ -152,13 +152,13 @@
     height:100%;
     width:100%;
 }
-.destination-highlights-section-heading{
+.highlights-title{
     font-family:"Roboto";
     text-align:center;
     padding:3px;
     font-weight: bold;
 }
-.destination-about-travel-info{
+.travel-info-title{
     font-family:"Roboto";
     text-align:center;
     padding:2px;
@@ -190,9 +190,9 @@
     border-radius:12px;
 
 }
-.top-attracction-heading{
+.attractions-title{
    text-align:center;
    font-family:"Roboto";
-   
+
 
 }
