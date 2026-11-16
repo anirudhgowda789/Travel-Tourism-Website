@@ -177,5 +177,12 @@
 .top-attraction-cities-location{
     text-align:center;
     font-family:"Roboto";
+
+}
+.top-attraction-city-box{
+    background-color:#ffffff;
+    border-style:solid;
+    border-color:#ffffff;
+    border-width:2px;
     
 }
