@@ -168,19 +168,19 @@
 .destination-about-travel-info-para{
   font-weight: bold;  
 }
-.italy-top-attraction-cities{
+.attraction-image{
     height:80px;
     width:160px;
     padding:2px;
     border-radius:12px;
 
 }
-.top-attraction-cities-location{
+.attraction-location{
     text-align:center;
     font-family:"Roboto";
 
 }
-.top-attraction-city-box{
+.attraction-cardattraction-image{
     background-color:#ffffff;
     border-style:solid;
     border-color:#ffffff;
