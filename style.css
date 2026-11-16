@@ -172,5 +172,10 @@
     width:160px;
     padding:2px;
     border-radius:12px;
+
+}
+.top-attraction-cities-location{
+    text-align:center;
+    font-family:"Roboto";
     
 }
