@@ -100,6 +100,16 @@
     font-weight:bold;
     margin-left: 15px;
 }
+.destination-card-place-info{
+    color:#142d14;
+    font-family:"Roboto";
+    text-align:left;
+    font-weight:bold;
+    margin-left: 15px;
+}
+.destination-card-place-info::before{
+    contnet:
+}
 .section-button{
     background-color:#f9d299;
     font-family:"Roboto";
