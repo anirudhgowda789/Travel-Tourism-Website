@@ -111,6 +111,8 @@
     background-color:#005639;
     font-family:"Roboto";
     padding:4px;
+    color:#ffffff;
+    width:150px;
     border-radius:12px;
 }
 .destination-details-section{
