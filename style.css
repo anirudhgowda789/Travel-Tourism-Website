@@ -56,6 +56,10 @@
     margin:20px 0px 0px 0px; 
     font-weight:bold; 
 }
+.hero-cta-button:hover{
+    color:#ffffff;
+    background-color:#000000;
+}
 .destination-card-image{
     width: 100%;
     height: 150px;
