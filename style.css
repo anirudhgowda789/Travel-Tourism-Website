@@ -88,6 +88,10 @@
     padding-top: 20px;
 
 }
+.section-title::first-letter{
+    color:orange;
+    font-size: 40px;
+}
 .section-subtitle{
     color:grey;
     font-family:"Playfair Display";
