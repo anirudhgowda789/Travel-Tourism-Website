@@ -78,6 +78,10 @@
     background-color:#1d421e;
       border-color:#1d421e;
 }
+.hero-stats{
+    margin-top:65px;
+    gap:65px;
+}
 
 .destination-card-image{
 
