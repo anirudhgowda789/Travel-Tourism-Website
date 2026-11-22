@@ -71,13 +71,16 @@
 .hero-cta-button:hover{
     color:#ffffff;
     background-color:#000000;
-    border-color:#00ff1e
+  
 }
 .hero-cta-button1:hover{
     color:#ffffff;
     background-color:#1d421e;
+      border-color:#1d421e;
 }
+
 .destination-card-image{
+
     width: 100%;
     height: 150px;
     border-radius:8px;
