@@ -56,9 +56,25 @@
     margin:20px 0px 0px 0px; 
     font-weight:bold; 
 }
+.hero-cta-button1{
+    border-radius:4px;
+    border-style:solid;
+    border-width: 3px;
+    border-color:#00ff1e;
+    padding:10px;
+    color:black;
+    width:200px;
+    font-family:"Roboto";
+    margin:20px 0px 0px 0px; 
+    font-weight:bold; 
+}
 .hero-cta-button:hover{
     color:#ffffff;
     background-color:#000000;
+}
+.hero-cta-button1:hover{
+    color:#ffffff;
+    background-color:#0b3e066e;
 }
 .destination-card-image{
     width: 100%;
