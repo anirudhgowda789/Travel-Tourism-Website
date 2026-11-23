@@ -11,6 +11,9 @@
     width:100%;
 
 }
+.hero-stats{
+    margin:20px
+}
 .hero-stats>h1{
     font-width:100;
     color:#ffffff;
