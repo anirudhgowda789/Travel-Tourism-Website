@@ -11,6 +11,9 @@
     width:100%;
 
 }
+#NavItem{
+   margin:auto;
+}
 .hero-stats{
     margin:20px
 }
