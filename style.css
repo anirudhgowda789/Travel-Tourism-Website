@@ -18,6 +18,7 @@
 }
 #NavItem:hover{
   color:#000000;
+  font-size:20px;
   margin-left:100px;
   text-decoration:underline;
 
