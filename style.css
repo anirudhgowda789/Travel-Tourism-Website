@@ -16,6 +16,12 @@
    margin-left:100px;
 
 }
+#NavItem:hover{
+  color:#000000;
+  margin-left:100px;
+  text-decoration:underline;
+
+}
 .hero-stats{
     margin:20px
 }
