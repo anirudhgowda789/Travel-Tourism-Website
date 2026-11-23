@@ -12,7 +12,7 @@
 
 }
 #NavItem{
-  gap:350px;
+  justify-content: space-between;
 
 }
 .hero-stats{
