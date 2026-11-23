@@ -11,7 +11,7 @@
     width:100%;
 
 }
-.hero-stats>h1{
+.hero-stats>h1>p{
     font-width:100;
     color:#ffffff;
     font-family:"Roboto";
