@@ -104,7 +104,7 @@
       border-color:#1d421e;
 }
 header{
-    position:absolute;
+    position:sticky;
 }
 .hero-stats{
     margin-top:65px;
