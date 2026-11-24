@@ -75,8 +75,9 @@
     border-width: 1px;
     border-color:#ffffff;
     padding:10px;
-    color:black;
+    color:#ffffff;
     width:200px;
+
     font-family:"Roboto";
     margin:20px 0px 0px 0px; 
     font-weight:bold; 
@@ -101,7 +102,7 @@
 .hero-cta-button1:hover{
     color:#ffffff;
     background-color:#1d421e;
-      border-color:#1d421e;
+    border-color:#1d421e;
 }
 .hero-stats{
     margin-top:65px;
