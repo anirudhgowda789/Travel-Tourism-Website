@@ -96,7 +96,9 @@
 }
 .hero-cta-button:hover{
     color:#ffffff;
-    background-color:#000000;
+    background-color:#19fbff;
+     border-style:outset;
+    border-width:5px;
   
 }
 .hero-cta-button1:hover{
