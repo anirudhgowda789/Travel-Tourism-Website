@@ -107,7 +107,19 @@
     margin-top:65px;
     gap:65px;
 }
-
+.wtu-container{
+    height:100%;
+    width:100%;
+    background-color:#f9fbfe;
+}
+.wtu-container-heading{
+    color:#183b56;
+    font-family:"Roboto";
+}
+.wtu-container-{
+    color:#183b56;
+    font-family:"Roboto";
+}
 .destination-card-image{
 
     width: 100%;
