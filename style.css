@@ -103,7 +103,7 @@
     color:#ffffff;
     background-color:#1d421e;
     border-color:#1d421e;
-    border-style:outset;
+    border-style:inset;
     border-width: 10px;
 }
 .hero-stats{
