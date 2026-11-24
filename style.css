@@ -116,11 +116,12 @@
 .wtu-container-heading{
     color:#183b56;
     font-family:"Roboto";
+    padding:5px;
 }
 .wtu-container-paragraph{
     color:#183b56;
     font-family:"Roboto";
-
+    padding:5px;
 }
 .wtu-card{
     height:100%;
