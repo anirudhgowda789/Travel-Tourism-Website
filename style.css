@@ -116,9 +116,34 @@
     color:#183b56;
     font-family:"Roboto";
 }
-.wtu-container-{
+.wtu-container-paragraph{
     color:#183b56;
     font-family:"Roboto";
+
+}
+.wtu-card{
+    height:100%;
+    background-color:#ffffff;
+    border-width:1px;
+    border-style:solid;
+    border-color:#e5eaf4;
+    border-radius:12px;
+}
+.wtu-card-image{
+    height:90px;
+    width:87px;
+}
+.wtu-card-title{
+    font-family:"Roboto";
+    color:#183b56;
+    font-size:32px;
+
+}
+.wtu-card-discription{
+    font-family:"Roboto";
+    color:#183b56;
+    
+
 }
 .destination-card-image{
 
