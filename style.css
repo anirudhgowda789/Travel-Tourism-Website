@@ -11,6 +11,10 @@
     width:100%;
 
 }
+.Nav-Bar{
+   
+    background-color:#f9fbfe;
+}
 #NavItem{
   color:#000000;
    margin-left:100px;
