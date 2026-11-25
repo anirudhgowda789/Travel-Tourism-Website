@@ -34,9 +34,10 @@
     border-radius: 12px;
 
 }
-
 .hero-stats {
-    margin: 20px
+    margin-top: 65px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .hero-stats>h1 {
@@ -114,12 +115,6 @@
     border-style: outset;
     border-width: 5px;
 }
-
-.hero-stats {
-    margin-top: 65px;
-    gap: 65px;
-}
-
 .wtu-container {
     height: 100%;
     width: 100%;
