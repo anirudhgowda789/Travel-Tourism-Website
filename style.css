@@ -20,12 +20,12 @@
 
 #NavItem {
     color: #000000;
-    margin-left: 100px;
+    margin-left:100px;
 }
 
 #NavItem:hover {
     color: #000000;
-    font-size: 20px;
+    font-size:20px;
     margin-left:100px;
     background-color: #ffffff;
     border-width: 2px;
