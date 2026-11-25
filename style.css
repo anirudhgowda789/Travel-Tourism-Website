@@ -194,13 +194,6 @@
     padding-top: 20px;
 
 }
-
-.section-title::first-letter {
-    color: orange;
-    font-size: 60px;
-    font-family: "Roboto";
-}
-
 .section-subtitle {
     color: grey;
     font-family: "Playfair Display";
