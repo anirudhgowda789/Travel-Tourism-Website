@@ -193,8 +193,8 @@
 
 .destination-card-image {
     width: 100%;
-    border-radius:20px;
-    
+    border-radius:32px;
+
 }
 
 .destination-card {
@@ -202,9 +202,7 @@
     border-style: solid;
     border-width: 3px;
     border-color: #ffffff;
-    height: 100%;
-    width:100%;
-    border-radius: 8px;
+    border-radius:16px;
     margin-bottom: 20px;
 }
 
@@ -243,12 +241,15 @@
     margin-left: 15px;
 }
 
-.destination-card-place-info {
+.destination-card-title {
     color: #148B46;
     font-family: "Roboto";
     text-align: left;
     font-weight: bold;
     margin-left: 15px;
+}
+.destination-card-link{
+    color:#d0b200;
 }
 
 .section-button {
