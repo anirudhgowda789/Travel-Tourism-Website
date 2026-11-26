@@ -239,8 +239,13 @@
     background-color: 	#008088;
 
 }
-.main-heading {
+.dut-section-main-heading {
     color: 	#004060;
     font-family: "Roboto";
     font-weight: bold;
+}
+.dut-section-discription{
+    color:#586878;
+    font-family:"Roboto";
+    
 }
