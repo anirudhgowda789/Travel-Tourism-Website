@@ -252,3 +252,24 @@
 .dute-section{
     background-color: #f9fbfe;
 }
+.offer-section-tag{
+    color:white;
+    font-size:16px;
+    background-color:#b0e7b8;
+    border-radius:50px;
+    width:30vw;
+    border-color:#b0e7b8;
+    border-width:2px;
+    border-style:solid;
+}
+.offer-section-heading{
+    color:#008088;
+    font-size:4rem;
+    text-align: center;
+
+
+}
+.offer-section-heading-highlight{
+    color:#19fbff;
+    font-size:5rem;
+}
