@@ -270,6 +270,12 @@
 
 }
 .offer-section-heading-highlight{
-    color:#19fbff;
+    color:#4da2a4;
     font-size:5rem;
+}
+.offer-section-discription{
+    color:grey;
+    font-size:20px;
+    text-align:center;
+    
 }
