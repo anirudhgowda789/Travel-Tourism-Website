@@ -252,6 +252,9 @@
 .dute-section{
     background-color: #f9fbfe;
 }
+.offer-section{
+    background-color: #f9fbfe;
+}
 .offer-section-tag{
     color:white;
     font-size:16px;
@@ -277,5 +280,13 @@
     color:grey;
     font-size:20px;
     text-align:center;
-    
+
+}
+.offer-section-button{
+    color:#ffffff;
+    font-family:"Roboto";
+    background-color:#116a6b;
+    width:30vw;
+    border-color:#116a6b;
+    border-radius:8px;
 }
