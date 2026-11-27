@@ -183,8 +183,8 @@
     border-color: #ffffff;
     border-radius:16px;
     margin-bottom: 20px;
-    transform: translateY(-8px);
-      transform: translateX(8px);
+    transform:translate3d(-3px);
+     
 }
 
 .destinations-section {
