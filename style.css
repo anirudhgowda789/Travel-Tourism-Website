@@ -177,6 +177,14 @@
     border-radius:16px;
     margin-bottom: 20px;
 }
+.destination-card {
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #ffffff;
+    border-radius:16px;
+    margin-bottom: 20px;
+    transform: translateY(-2px);
+}
 
 .destinations-section {
     background-color: #f9fbfe;
