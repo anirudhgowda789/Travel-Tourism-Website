@@ -110,7 +110,7 @@
     border-width: 5px;
 }
 .wtu-container {
-    height: 100vh;
+    height: 100%;
     width: 100%;
     background-color: #f9fbfe;
 
@@ -251,12 +251,12 @@
 }
 .dute-section{
     background-color: #f9fbfe;
-    height:100vh;
+    height:100%;
 
 }
 .offer-section{
     background-color: #f9fbfe;
-    height:100vh;
+    height:100%;
 }
 .offer-section-tag{
     color:white;
