@@ -282,10 +282,10 @@
 
 }
 .offer-section-button{
-    color:#ffffff;
-    font-family:"Roboto";
-    background-color:#116a6b;
-    width:30vw;
-    border-color:#116a6b;
-    border-radius:8px;
+     color: #ffffff;
+    background-color: #116a6b;
+    padding: 14px 32px;
+    border-radius: 12px;
+    font-weight: 600;
+    font-size: 1.05rem;
 }
