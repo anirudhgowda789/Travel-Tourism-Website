@@ -24,10 +24,10 @@
 }
 
 #NavItem:hover {
-    color: #000000;
+    color: #6dd386;
     font-size:20px;
     margin-left:100px;
-    background-color: #ffffff;
+    background-color: #91e7ae;
     border-width: 2px;
     border-style: outset;
     border-color: #e5eaf4;
