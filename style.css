@@ -289,3 +289,7 @@
     font-weight: 600;
     font-size: 1.05rem;
 }
+.offer-section-button:hover {
+    background-color: #0b4a4b;
+    color: #ffffff;
+}
