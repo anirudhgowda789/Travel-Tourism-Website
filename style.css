@@ -282,8 +282,10 @@
 
 }
 .offer-section-button{
-     color: #ffffff;
+    color: #ffffff;
     background-color: #116a6b;
+    border-style: solid;
+    border-color: #116a6b;
     padding: 14px 32px;
     border-radius: 12px;
     font-weight: 600;
