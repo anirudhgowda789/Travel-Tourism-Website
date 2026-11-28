@@ -298,5 +298,6 @@
 .follow-us-section-main-heading{
     color:#004060;
     font-family:"Roboto";
-    font-weight:300;
+    font-weight:bold;
+    text-align:center;
 }
