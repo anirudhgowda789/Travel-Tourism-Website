@@ -294,12 +294,13 @@
 }
 .follow-us-section{
     height:100%;
+     background-color: #ffffff;
 }
 .follow-us-section-element{
     font-size:35px;
 }
 .follow-us-section-element-bg{
-     background-color:#ffff62;
+     background-color: #e6f4f1;
      height:80px;
      width:80px;
      padding-top: 22px;
