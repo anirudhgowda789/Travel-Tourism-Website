@@ -177,15 +177,7 @@
     border-radius:16px;
     margin-bottom: 20px;
 }
-.destination-card:hover{
-    background-color: #ffffff;
-    border-style: solid;
-    border-color: #ffffff;
-    border-radius:16px;
-    margin-bottom: 20px;
-    transform:translate3d(-3px);
-     
-}
+
 
 .destinations-section {
     background-color: #f9fbfe;
