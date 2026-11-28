@@ -295,9 +295,15 @@
 .follow-us-section-element{
     font-size:70px;
 }
+.follow-us-section-element-bg{
+     background-color:#ffff62;
+     height:100%;
+     border-radius:50%;
+}
 .follow-us-section-main-heading{
     color:#004060;
     font-family:"Roboto";
     font-weight:bold;
     text-align:center;
+
 }
